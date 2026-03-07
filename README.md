@@ -39,17 +39,21 @@ Estudante de Ciência de Dados desenvolvendo projetos de análise de dados com f
 
 ### 🚀 Tecnologias e Ferramentas
 
-</div>
+<p align="center">
 
-<div align="center">
+<img src="https://skillicons.dev/icons?i=python" height="50"/>
 
-<img src="https://skillicons.dev/icons?i=python,postgres,git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="50"/>
 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50"/>
 
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50"/>
 
-</div>
+<img src="https://img.icons8.com/color/96/power-bi.png" height="50"/>
+
+<img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" height="50"/>
+
+</p>
 
 ---
 
