@@ -12,7 +12,6 @@
   <a href="mailto:victorlaccontato@outlook.com">
     <img src="https://img.shields.io/badge/Outlook-Contato-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white" />
   </a>
----
 
 ### Sobre mim
 
