@@ -12,15 +12,6 @@
   <a href="mailto:victorlaccontato@outlook.com">
     <img src="https://img.shields.io/badge/Outlook-Contato-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white" />
   </a>
-</p>
-
-<br>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=victorhlacerda&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorhlacerda&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=c9d1d9" />
-</p>
-
 ---
 
 ### Sobre mim
@@ -39,16 +30,6 @@
   <img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="48"/>
 </p>
-
----
-
-### Projetos em destaque
-
-- **SQL Sales Analysis**  
-  Projeto de análise de dados de vendas utilizando SQL para responder perguntas de negócio e gerar insights sobre receita, clientes e produtos.
-
-- **Dashboards em Power BI**  
-  Visualização de indicadores e métricas para apoio à tomada de decisão.
 
 ---
 
