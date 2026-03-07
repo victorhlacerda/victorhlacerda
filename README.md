@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou o Victor Lacerda</h1>
+<h1 align="center">👋 Olá, eu sou o Victor </h1>
 
 <p align="center">
 Estudante de Ciência de Dados desenvolvendo projetos de análise de dados com foco em gerar insights para apoiar a tomada de decisão.
