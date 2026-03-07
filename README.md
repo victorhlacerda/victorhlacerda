@@ -1,109 +1,57 @@
-<h1 align="center">👋 Olá, eu sou o Victor</h1>
+<h1 align="center">Victor Lacerda</h1>
 
 <p align="center">
-Estudante de Ciência de Dados desenvolvendo projetos de análise de dados com foco em gerar insights para apoiar a tomada de decisão.
+  <strong>Estudante de Ciência de Dados</strong><br>
+  Desenvolvendo projetos de análise de dados com foco em gerar insights para apoiar a tomada de decisão.
 </p>
 
-<div align="center">
-
-<a href="https://www.linkedin.com/in/victorhpl/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Victor%20Lacerda-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:victorlaccontato@outlook.com">
-<img src="https://img.shields.io/badge/Outlook-Contato-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
-</a>
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/victorhpl/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Victor%20Lacerda-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:victorlaccontato@outlook.com">
+    <img src="https://img.shields.io/badge/Outlook-Contato-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white" />
+  </a>
+</p>
 
 <br>
 
----
-
-<div align="center">
-
-## 📊 Sobre mim
-
-</div>
-
-<div align="center">
-
-🎓 Estudante de **Ciência de Dados**  
-🧠 Construindo projetos com **SQL, Python e Power BI**
-
-</div>
-
-<br>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=victorhlacerda&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorhlacerda&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=c9d1d9" />
+</p>
 
 ---
 
-<div align="center">
+### Sobre mim
 
-## 🚀 Tecnologias e Ferramentas
-
-</div>
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=python" height="45"/><br>
-Python
-</td>
-
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="45"/><br>
-SQL Server
-</td>
-
-<td align="center" width="120">
-<img src="https://img.icons8.com/color/96/power-bi.png" height="45"/><br>
-Power BI
-</td>
-
-<td align="center" width="120">
-<img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" height="45"/><br>
-Excel
-</td>
-
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/><br>
-Git
-</td>
-
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45"/><br>
-VS Code
-</td>
-</tr>
-</table>
-
-</div>
-
-<br>
+- Estudante de **Ciência de Dados**
+- Construindo projetos com **SQL, Python e Power BI**
+- Interesse em **análise de dados, visualização e métricas de negócio**
 
 ---
 
-<div align="center">
+### Stack
 
-💡 Sempre buscando evoluir em dados e transformar informação em decisão.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,git,vscode" />
+  <img src="https://img.icons8.com/color/96/power-bi.png" height="48"/>
+  <img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="48"/>
+</p>
 
-</div>
+---
 
+### Projetos em destaque
 
+- **SQL Sales Analysis**  
+  Projeto de análise de dados de vendas utilizando SQL para responder perguntas de negócio e gerar insights sobre receita, clientes e produtos.
 
-<!--
-**victorhlacerda/victorhlacerda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Dashboards em Power BI**  
+  Visualização de indicadores e métricas para apoio à tomada de decisão.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <em>Sempre buscando evoluir em dados e transformar informação em decisão.</em>
+</p>
