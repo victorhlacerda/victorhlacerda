@@ -13,7 +13,7 @@
 + 💼 Experience in banking environment (Internet Banking & Mobile App)
 + 📊 Building projects with SQL, Python and Power BI
 + 📈 Focused on data analysis, visualization and business metrics
-+ 📫 Email: vlacerda0209@gmail.com
+
 ```
 
 ---
